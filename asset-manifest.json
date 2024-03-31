@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foody_webApp/static/css/main.d5289b2f.css",
+    "main.js": "/foody_webApp/static/js/main.f48c8881.js",
+    "index.html": "/foody_webApp/index.html",
+    "main.d5289b2f.css.map": "/foody_webApp/static/css/main.d5289b2f.css.map",
+    "main.f48c8881.js.map": "/foody_webApp/static/js/main.f48c8881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.f48c8881.js"
+  ]
+}
